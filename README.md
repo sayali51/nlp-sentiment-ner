@@ -56,7 +56,7 @@ week3/
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-jupyter notebook Week3_Sentiment_NER.ipynb
+jupyter notebook Sentiment_NER.ipynb
 ```
 
 ## Skills Demonstrated
